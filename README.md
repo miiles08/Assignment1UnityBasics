@@ -1,5 +1,7 @@
 # Assignment1UnityBasics
 
+All files are in the *master* branch
+
 Scene 1: Three unity objects
 
 In this scene, I have created three 3D objects each having different materials
